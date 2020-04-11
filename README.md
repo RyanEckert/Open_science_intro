@@ -1,7 +1,7 @@
 # Open_science_intro
 ### Ryan Eckert -- <ryan.j.eckert@gmail.com>
-### ryanjeckert.weebly.com
-### version: April 10, 2020
+### [ryanjeckert.weebly.com](https://ryan.j.eckert.weebly.com){target="_blank"}
+### version: April 11, 2020
 
 ***
 
