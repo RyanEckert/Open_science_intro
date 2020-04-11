@@ -8,6 +8,7 @@ output:
     toc: yes
     toc_depth: 3
     toc_float: yes
+    code_folding: "show"
 ---
 
 ```{r setup, include=FALSE}
@@ -132,7 +133,7 @@ ryanTheme = theme(axis.title = element_text(color = "black", size = 12),
 ```
 
 We can see that our data has four measurements
-```{r fisher iris data}
+```{r fisher iris data, fig.align='right', echo}
 head(iris)
 ```
 
